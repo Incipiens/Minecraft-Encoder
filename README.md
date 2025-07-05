@@ -1,6 +1,6 @@
 # Encode files to Minecraft
 
-This program has been written for an XDA article.
+This program has been written for [an XDA article](https://www.xda-developers.com/store-files-inside-minecraft/).
 
 This program encodes files to Minecraft, representing them as wool blocks. You can encode a file with encoder.py, and then decode it with decode_from_world.py. It can encode any file, though a 67 byte file will take up 144 blocks. The encoder will generate an mcfunction file which can be run to automatically place the blocks. 
 
